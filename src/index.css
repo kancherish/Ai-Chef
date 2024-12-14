@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: Alumni;
+    src: url(/fonts/Alumni/Alumni-2.ttf);
+}
+
+
