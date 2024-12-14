@@ -1,9 +1,7 @@
-# React + Vite
+# Ai Chef
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+designing is not done yet and just a prototype Or a MVP 
 
-Currently, two official plugins are available:
+not optmized for mobile use on a pc or laptop
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Ai-Chef
+[live Link]()
