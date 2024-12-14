@@ -19,7 +19,7 @@ function GetRecipe({ ingredients = [] }) {
                 top: document.documentElement.scrollHeight,
                 behavior: 'smooth'
             });
-        }, 100)
+        }, 200)
 
         try {
             let response = await getRecipe(ingredients.toString())
