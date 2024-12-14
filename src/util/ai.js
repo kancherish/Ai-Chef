@@ -6,8 +6,6 @@ export default async function getRecipe(ingredients) {
 
     const client = new Mistral({ apiKey: apiKey });
 
-
-    console.log(import.meta.env.VITE_aId);
     
 
     const chatResponse = await client.agents.complete({
